@@ -1,9 +1,7 @@
-## <center>💫 Shailendra Singh (Full Stack Developer) 💫<center>
-
 <!--
 **er-shailendra-singh/er-shailendra-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# 💫 About Me:
+# 💫 About Me: Shailendra Singh (Full Stack Engineer)
 Hi there 👋,<br><br>I'm Shailendra Singh - a Full Stack Developer, Tech Enthusiast, and Software Architect from Udaipur, India. I mostly deal with web development with HTML5/CSS/Javascript, Bootstrap, Jquery, Laravel, Vuejs, React, and software development stack in these days. I have 10+ years of development experience in architecting, designing, developing, and implementing web applications, using Laravel and Web technologies.<br><br>🔭 Working as a Software Engineer and contributing to frontend and backend for building web applications and portals.<br>🌱 I’m currently learning: Machine Learning, Artificial Intelligence systems
 
 
