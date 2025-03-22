@@ -12,6 +12,7 @@ Hi there 👋,<br><br>I'm Shailendra Singh - a Full Stack Developer, Tech Enthus
 
 # 📊 GitHub Stats:
 ![](https://profile-counter.glitch.me/er-shailendra-singh/count.svg)<br/>
+![](https://komarev.com/ghpvc/?username=er-shailendra-singh)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=er-shailendra-singh&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=er-shailendra-singh&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=er-shailendra-singh&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
